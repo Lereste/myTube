@@ -2,5 +2,5 @@
 
 Demo https://lereste.github.io/myTube/
 
-Cre: Easy Tutorials (Youtube channel)
+I learn it from: Easy Tutorials (Youtube channel)
 
